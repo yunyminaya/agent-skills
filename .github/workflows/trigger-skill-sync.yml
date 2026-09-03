@@ -1,4 +1,6 @@
 name: Trigger downstream skill sync
+permissions:
+  contents: read
 
 on:
   push:
